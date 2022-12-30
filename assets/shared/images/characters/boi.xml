@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boi.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boi0000" x="0" y="0" width="227" height="231" frameX="0" frameY="0" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="boi0001" x="0" y="0" width="227" height="231" frameX="0" frameY="0" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="boi0002" x="227" y="0" width="228" height="231"/>
+	<SubTexture name="boi0003" x="227" y="0" width="228" height="231"/>
+</TextureAtlas>

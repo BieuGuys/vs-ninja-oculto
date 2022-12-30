@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ninja_vermelhonew.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NV down0000" x="0" y="0" width="466" height="486" frameX="-3" frameY="-32" frameWidth="469" frameHeight="518"/>
+	<SubTexture name="NV down0001" x="0" y="0" width="466" height="486" frameX="-3" frameY="-32" frameWidth="469" frameHeight="518"/>
+	<SubTexture name="NV down0002" x="466" y="0" width="464" height="489" frameX="-1" frameY="-29" frameWidth="469" frameHeight="518"/>
+	<SubTexture name="NV down0003" x="466" y="0" width="464" height="489" frameX="-1" frameY="-29" frameWidth="469" frameHeight="518"/>
+	<SubTexture name="NV down0004" x="930" y="0" width="446" height="518" frameX="-2" frameY="0" frameWidth="469" frameHeight="518"/>
+	<SubTexture name="NV down0005" x="930" y="0" width="446" height="518" frameX="-2" frameY="0" frameWidth="469" frameHeight="518"/>
+	<SubTexture name="NV down0006" x="1376" y="0" width="451" height="511" frameX="0" frameY="-7" frameWidth="469" frameHeight="518"/>
+	<SubTexture name="NV down0007" x="1376" y="0" width="451" height="511" frameX="0" frameY="-7" frameWidth="469" frameHeight="518"/>
+	<SubTexture name="NV down0008" x="1827" y="0" width="451" height="512" frameX="0" frameY="-6" frameWidth="469" frameHeight="518"/>
+	<SubTexture name="NV down0009" x="1827" y="0" width="451" height="512" frameX="0" frameY="-6" frameWidth="469" frameHeight="518"/>
+	<SubTexture name="NV idle0000" x="2278" y="0" width="390" height="444" frameX="-32" frameY="-82" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0001" x="2278" y="0" width="390" height="444" frameX="-32" frameY="-82" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0002" x="2668" y="0" width="391" height="448" frameX="-30" frameY="-78" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0003" x="2668" y="0" width="391" height="448" frameX="-30" frameY="-78" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0004" x="3059" y="0" width="383" height="526" frameX="-4" frameY="0" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0005" x="3059" y="0" width="383" height="526" frameX="-4" frameY="0" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0006" x="3442" y="0" width="389" height="523" frameX="-5" frameY="-3" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0007" x="3442" y="0" width="389" height="523" frameX="-5" frameY="-3" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0008" x="3831" y="0" width="392" height="522" frameX="0" frameY="-4" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0009" x="3831" y="0" width="392" height="522" frameX="0" frameY="-4" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0010" x="4223" y="0" width="391" height="523" frameX="-1" frameY="-3" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0011" x="4223" y="0" width="391" height="523" frameX="-1" frameY="-3" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0012" x="4223" y="0" width="391" height="523" frameX="-1" frameY="-3" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0013" x="4223" y="0" width="391" height="523" frameX="-1" frameY="-3" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV idle0014" x="4223" y="0" width="391" height="523" frameX="-1" frameY="-3" frameWidth="422" frameHeight="526"/>
+	<SubTexture name="NV left0000" x="0" y="526" width="567" height="538" frameX="0" frameY="0" frameWidth="573" frameHeight="538"/>
+	<SubTexture name="NV left0001" x="0" y="526" width="567" height="538" frameX="0" frameY="0" frameWidth="573" frameHeight="538"/>
+	<SubTexture name="NV left0002" x="567" y="526" width="568" height="538" frameX="0" frameY="0" frameWidth="573" frameHeight="538"/>
+	<SubTexture name="NV left0003" x="567" y="526" width="568" height="538" frameX="0" frameY="0" frameWidth="573" frameHeight="538"/>
+	<SubTexture name="NV left0004" x="1135" y="526" width="565" height="534" frameX="-8" frameY="-4" frameWidth="573" frameHeight="538"/>
+	<SubTexture name="NV left0005" x="1135" y="526" width="565" height="534" frameX="-8" frameY="-4" frameWidth="573" frameHeight="538"/>
+	<SubTexture name="NV left0006" x="1700" y="526" width="567" height="538" frameX="-5" frameY="0" frameWidth="573" frameHeight="538"/>
+	<SubTexture name="NV left0007" x="1700" y="526" width="567" height="538" frameX="-5" frameY="0" frameWidth="573" frameHeight="538"/>
+	<SubTexture name="NV left0008" x="2267" y="526" width="567" height="538" frameX="-5" frameY="0" frameWidth="573" frameHeight="538"/>
+	<SubTexture name="NV left0009" x="2267" y="526" width="567" height="538" frameX="-5" frameY="0" frameWidth="573" frameHeight="538"/>
+	<SubTexture name="NV right0000" x="2834" y="526" width="481" height="542" frameX="-23" frameY="0" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="NV right0001" x="2834" y="526" width="481" height="542" frameX="-23" frameY="0" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="NV right0002" x="3315" y="526" width="480" height="538" frameX="-21" frameY="-4" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="NV right0003" x="3315" y="526" width="480" height="538" frameX="-21" frameY="-4" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="NV right0004" x="3795" y="526" width="480" height="498" frameX="0" frameY="-44" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="NV right0005" x="3795" y="526" width="480" height="498" frameX="0" frameY="-44" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="NV right0006" x="4275" y="526" width="480" height="512" frameX="-4" frameY="-30" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="NV right0007" x="4275" y="526" width="480" height="512" frameX="-4" frameY="-30" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="NV right0008" x="0" y="1068" width="480" height="510" frameX="-4" frameY="-32" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="NV right0009" x="0" y="1068" width="480" height="510" frameX="-4" frameY="-32" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="NV up0000" x="480" y="1068" width="334" height="631" frameX="-23" frameY="0" frameWidth="357" frameHeight="631"/>
+	<SubTexture name="NV up0001" x="480" y="1068" width="334" height="631" frameX="-23" frameY="0" frameWidth="357" frameHeight="631"/>
+	<SubTexture name="NV up0002" x="814" y="1068" width="334" height="629" frameX="-22" frameY="-2" frameWidth="357" frameHeight="631"/>
+	<SubTexture name="NV up0003" x="814" y="1068" width="334" height="629" frameX="-22" frameY="-2" frameWidth="357" frameHeight="631"/>
+	<SubTexture name="NV up0004" x="1148" y="1068" width="332" height="598" frameX="0" frameY="-32" frameWidth="357" frameHeight="631"/>
+	<SubTexture name="NV up0005" x="1148" y="1068" width="332" height="598" frameX="0" frameY="-32" frameWidth="357" frameHeight="631"/>
+	<SubTexture name="NV up0006" x="1480" y="1068" width="328" height="604" frameX="-2" frameY="-26" frameWidth="357" frameHeight="631"/>
+	<SubTexture name="NV up0007" x="1480" y="1068" width="328" height="604" frameX="-2" frameY="-26" frameWidth="357" frameHeight="631"/>
+	<SubTexture name="NV up0008" x="1808" y="1068" width="329" height="603" frameX="-1" frameY="-27" frameWidth="357" frameHeight="631"/>
+	<SubTexture name="NV up0009" x="1808" y="1068" width="329" height="603" frameX="-1" frameY="-27" frameWidth="357" frameHeight="631"/>
+</TextureAtlas>

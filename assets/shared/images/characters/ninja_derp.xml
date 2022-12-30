@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ninja_derp.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NINJA DERP down0000" x="0" y="0" width="492" height="462" frameX="-3" frameY="-12" frameWidth="495" frameHeight="474"/>
+	<SubTexture name="NINJA DERP down0001" x="0" y="0" width="492" height="462" frameX="-3" frameY="-12" frameWidth="495" frameHeight="474"/>
+	<SubTexture name="NINJA DERP down0002" x="492" y="0" width="490" height="463" frameX="-2" frameY="-8" frameWidth="495" frameHeight="474"/>
+	<SubTexture name="NINJA DERP down0003" x="492" y="0" width="490" height="463" frameX="-2" frameY="-8" frameWidth="495" frameHeight="474"/>
+	<SubTexture name="NINJA DERP down0004" x="982" y="0" width="484" height="468" frameX="0" frameY="-2" frameWidth="495" frameHeight="474"/>
+	<SubTexture name="NINJA DERP down0005" x="982" y="0" width="484" height="468" frameX="0" frameY="-2" frameWidth="495" frameHeight="474"/>
+	<SubTexture name="NINJA DERP down0006" x="1466" y="0" width="484" height="468" frameX="0" frameY="0" frameWidth="495" frameHeight="474"/>
+	<SubTexture name="NINJA DERP down0007" x="1466" y="0" width="484" height="468" frameX="0" frameY="0" frameWidth="495" frameHeight="474"/>
+	<SubTexture name="NINJA DERP down0008" x="1466" y="0" width="484" height="468" frameX="0" frameY="0" frameWidth="495" frameHeight="474"/>
+	<SubTexture name="NINJA DERP down0009" x="1466" y="0" width="484" height="468" frameX="0" frameY="0" frameWidth="495" frameHeight="474"/>
+	<SubTexture name="NINJA DERP idle0000" x="1950" y="0" width="536" height="391" frameX="-1" frameY="-73" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0001" x="1950" y="0" width="536" height="391" frameX="-1" frameY="-73" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0002" x="2486" y="0" width="537" height="390" frameX="0" frameY="-74" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0003" x="2486" y="0" width="537" height="390" frameX="0" frameY="-74" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0004" x="3023" y="0" width="527" height="405" frameX="-6" frameY="-59" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0005" x="3023" y="0" width="527" height="405" frameX="-6" frameY="-59" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0006" x="3550" y="0" width="478" height="462" frameX="-47" frameY="-4" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0007" x="3550" y="0" width="478" height="462" frameX="-47" frameY="-4" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0008" x="0" y="468" width="475" height="466" frameX="-49" frameY="-1" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0009" x="0" y="468" width="475" height="466" frameX="-49" frameY="-1" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0010" x="475" y="468" width="473" height="467" frameX="-50" frameY="0" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0011" x="475" y="468" width="473" height="467" frameX="-50" frameY="0" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0012" x="948" y="468" width="473" height="467" frameX="-50" frameY="0" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0013" x="948" y="468" width="473" height="467" frameX="-50" frameY="0" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP idle0014" x="948" y="468" width="473" height="467" frameX="-50" frameY="0" frameWidth="537" frameHeight="467"/>
+	<SubTexture name="NINJA DERP left0000" x="1421" y="468" width="485" height="471" frameX="0" frameY="-3" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP left0001" x="1421" y="468" width="485" height="471" frameX="0" frameY="-3" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP left0002" x="1906" y="468" width="485" height="474" frameX="-1" frameY="-3" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP left0003" x="1906" y="468" width="485" height="474" frameX="-1" frameY="-3" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP left0004" x="2391" y="468" width="479" height="482" frameX="-15" frameY="0" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP left0005" x="2391" y="468" width="479" height="482" frameX="-15" frameY="0" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP left0006" x="2870" y="468" width="478" height="481" frameX="-17" frameY="-1" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP left0007" x="2870" y="468" width="478" height="481" frameX="-17" frameY="-1" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP left0008" x="2870" y="468" width="478" height="481" frameX="-17" frameY="-1" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP left0009" x="2870" y="468" width="478" height="481" frameX="-17" frameY="-1" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP left0010" x="2870" y="468" width="478" height="481" frameX="-17" frameY="-1" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP left0011" x="2870" y="468" width="478" height="481" frameX="-17" frameY="-1" frameWidth="495" frameHeight="482"/>
+	<SubTexture name="NINJA DERP right0000" x="3348" y="468" width="507" height="472" frameX="-55" frameY="0" frameWidth="562" frameHeight="472"/>
+	<SubTexture name="NINJA DERP right0001" x="3348" y="468" width="507" height="472" frameX="-55" frameY="0" frameWidth="562" frameHeight="472"/>
+	<SubTexture name="NINJA DERP right0002" x="0" y="950" width="507" height="470" frameX="-52" frameY="-1" frameWidth="562" frameHeight="472"/>
+	<SubTexture name="NINJA DERP right0003" x="0" y="950" width="507" height="470" frameX="-52" frameY="-1" frameWidth="562" frameHeight="472"/>
+	<SubTexture name="NINJA DERP right0004" x="507" y="950" width="496" height="445" frameX="0" frameY="-25" frameWidth="562" frameHeight="472"/>
+	<SubTexture name="NINJA DERP right0005" x="507" y="950" width="496" height="445" frameX="0" frameY="-25" frameWidth="562" frameHeight="472"/>
+	<SubTexture name="NINJA DERP right0006" x="1003" y="950" width="494" height="446" frameX="0" frameY="-22" frameWidth="562" frameHeight="472"/>
+	<SubTexture name="NINJA DERP right0007" x="1003" y="950" width="494" height="446" frameX="0" frameY="-22" frameWidth="562" frameHeight="472"/>
+	<SubTexture name="NINJA DERP right0008" x="1003" y="950" width="494" height="446" frameX="0" frameY="-22" frameWidth="562" frameHeight="472"/>
+	<SubTexture name="NINJA DERP right0009" x="1003" y="950" width="494" height="446" frameX="0" frameY="-22" frameWidth="562" frameHeight="472"/>
+	<SubTexture name="NINJA DERP up0000" x="1497" y="950" width="488" height="391" frameX="0" frameY="-47" frameWidth="492" frameHeight="461"/>
+	<SubTexture name="NINJA DERP up0001" x="1497" y="950" width="488" height="391" frameX="0" frameY="-47" frameWidth="492" frameHeight="461"/>
+	<SubTexture name="NINJA DERP up0002" x="1985" y="950" width="486" height="396" frameX="-2" frameY="-43" frameWidth="492" frameHeight="461"/>
+	<SubTexture name="NINJA DERP up0003" x="1985" y="950" width="486" height="396" frameX="-2" frameY="-43" frameWidth="492" frameHeight="461"/>
+	<SubTexture name="NINJA DERP up0004" x="2471" y="950" width="464" height="460" frameX="-27" frameY="0" frameWidth="492" frameHeight="461"/>
+	<SubTexture name="NINJA DERP up0005" x="2471" y="950" width="464" height="460" frameX="-27" frameY="0" frameWidth="492" frameHeight="461"/>
+	<SubTexture name="NINJA DERP up0006" x="2935" y="950" width="463" height="461" frameX="-29" frameY="0" frameWidth="492" frameHeight="461"/>
+	<SubTexture name="NINJA DERP up0007" x="2935" y="950" width="463" height="461" frameX="-29" frameY="0" frameWidth="492" frameHeight="461"/>
+	<SubTexture name="NINJA DERP up0008" x="2935" y="950" width="463" height="461" frameX="-29" frameY="0" frameWidth="492" frameHeight="461"/>
+	<SubTexture name="NINJA DERP up0009" x="2935" y="950" width="463" height="461" frameX="-29" frameY="0" frameWidth="492" frameHeight="461"/>
+	<SubTexture name="NINJA DERP up0010" x="2935" y="950" width="463" height="461" frameX="-29" frameY="0" frameWidth="492" frameHeight="461"/>
+	<SubTexture name="NINJA DERP up0011" x="2935" y="950" width="463" height="461" frameX="-29" frameY="0" frameWidth="492" frameHeight="461"/>
+</TextureAtlas>

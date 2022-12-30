@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ninja_oculto.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hahahahahahahatuesbonmiso0000" x="0" y="0" width="709" height="7" frameX="0" frameY="-510" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0001" x="709" y="0" width="708" height="8" frameX="-1" frameY="-509" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0002" x="1417" y="0" width="704" height="13" frameX="-1" frameY="-504" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0003" x="2121" y="0" width="697" height="23" frameX="-5" frameY="-494" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0004" x="2818" y="0" width="682" height="43" frameX="-14" frameY="-474" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0005" x="3500" y="0" width="650" height="85" frameX="-30" frameY="-432" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0006" x="4150" y="0" width="484" height="300" frameX="-112" frameY="-216" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0007" x="4634" y="0" width="415" height="391" frameX="-147" frameY="-125" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0008" x="5049" y="0" width="389" height="426" frameX="-161" frameY="-89" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0009" x="5438" y="0" width="375" height="444" frameX="-168" frameY="-71" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0010" x="5813" y="0" width="366" height="454" frameX="-172" frameY="-61" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0011" x="6179" y="0" width="361" height="460" frameX="-174" frameY="-55" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0012" x="6540" y="0" width="359" height="466" frameX="-176" frameY="-49" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0013" x="0" y="466" width="358" height="465" frameX="-176" frameY="-50" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0014" x="358" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0015" x="358" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0016" x="358" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0017" x="762" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0018" x="762" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0019" x="762" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0020" x="1166" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0021" x="1166" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0022" x="1166" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0023" x="1570" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0024" x="1570" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0025" x="1570" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0026" x="1974" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0027" x="1974" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0028" x="1974" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0029" x="2378" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0030" x="2378" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0031" x="2782" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0032" x="2782" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0033" x="3186" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0034" x="3186" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0035" x="3590" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0036" x="3590" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0037" x="3994" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0038" x="3994" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0039" x="3994" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0040" x="3994" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0041" x="3994" y="466" width="404" height="489" frameX="-89" frameY="-32" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0042" x="4398" y="466" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0043" x="4790" y="466" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0044" x="5182" y="466" width="392" height="485" frameX="-86" frameY="-36" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0045" x="5574" y="466" width="392" height="485" frameX="-86" frameY="-36" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0046" x="5966" y="466" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0047" x="6358" y="466" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0048" x="6358" y="466" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0049" x="0" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0050" x="0" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0051" x="392" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0052" x="392" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0053" x="784" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0054" x="784" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0055" x="1176" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0056" x="1176" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0057" x="1568" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0058" x="1568" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0059" x="1960" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0060" x="1960" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0061" x="2352" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0062" x="2352" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0063" x="1960" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0064" x="1960" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0065" x="2744" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0066" x="2744" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0067" x="3136" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0068" x="3136" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0069" x="3136" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0070" x="3528" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0071" x="3528" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0072" x="3920" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0073" x="4312" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0074" x="4704" y="955" width="392" height="483" frameX="-86" frameY="-38" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0075" x="5096" y="955" width="388" height="521" frameX="-119" frameY="0" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0076" x="5484" y="955" width="388" height="521" frameX="-119" frameY="0" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0077" x="5872" y="955" width="389" height="518" frameX="-117" frameY="-3" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0078" x="6261" y="955" width="389" height="518" frameX="-117" frameY="-3" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0079" x="6650" y="955" width="389" height="519" frameX="-117" frameY="-2" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0080" x="0" y="1476" width="389" height="519" frameX="-117" frameY="-2" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0081" x="0" y="1476" width="389" height="519" frameX="-117" frameY="-2" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0082" x="389" y="1476" width="389" height="519" frameX="-117" frameY="-2" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0083" x="389" y="1476" width="389" height="519" frameX="-117" frameY="-2" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0084" x="389" y="1476" width="389" height="519" frameX="-117" frameY="-2" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0085" x="389" y="1476" width="389" height="519" frameX="-117" frameY="-2" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0086" x="389" y="1476" width="389" height="519" frameX="-117" frameY="-2" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0087" x="389" y="1476" width="389" height="519" frameX="-117" frameY="-2" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0088" x="389" y="1476" width="389" height="519" frameX="-117" frameY="-2" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0089" x="389" y="1476" width="389" height="519" frameX="-117" frameY="-2" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0090" x="778" y="1476" width="388" height="517" frameX="-119" frameY="-4" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0091" x="1166" y="1476" width="388" height="517" frameX="-119" frameY="-4" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0092" x="1554" y="1476" width="380" height="515" frameX="-101" frameY="-6" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0093" x="1934" y="1476" width="380" height="515" frameX="-101" frameY="-6" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0094" x="2314" y="1476" width="387" height="507" frameX="-96" frameY="-14" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0095" x="2701" y="1476" width="387" height="507" frameX="-96" frameY="-14" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0096" x="3088" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0097" x="3475" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0098" x="3475" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0099" x="3862" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0100" x="3862" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0101" x="4249" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0102" x="4249" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0103" x="4636" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0104" x="4636" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0105" x="5023" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0106" x="5023" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0107" x="5410" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0108" x="5410" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0109" x="5797" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0110" x="5797" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0111" x="6184" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0112" x="6184" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0113" x="6571" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0114" x="6571" y="1476" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0115" x="0" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0116" x="0" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0117" x="387" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0118" x="387" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0119" x="774" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0120" x="774" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0121" x="1161" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0122" x="1161" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0123" x="1548" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0124" x="1548" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0125" x="1548" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0126" x="1548" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0127" x="1548" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0128" x="1548" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0129" x="1548" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="hahahahahahahatuesbonmiso0130" x="1548" y="1995" width="387" height="508" frameX="-96" frameY="-13" frameWidth="709" frameHeight="521"/>
+	<SubTexture name="ninja down0000" x="1935" y="1995" width="394" height="460" frameX="-20" frameY="-34" frameWidth="414" frameHeight="495"/>
+	<SubTexture name="ninja down0001" x="1935" y="1995" width="394" height="460" frameX="-20" frameY="-34" frameWidth="414" frameHeight="495"/>
+	<SubTexture name="ninja down0002" x="2329" y="1995" width="395" height="461" frameX="-18" frameY="-33" frameWidth="414" frameHeight="495"/>
+	<SubTexture name="ninja down0003" x="2329" y="1995" width="395" height="461" frameX="-18" frameY="-33" frameWidth="414" frameHeight="495"/>
+	<SubTexture name="ninja down0004" x="2724" y="1995" width="391" height="495" frameX="0" frameY="0" frameWidth="414" frameHeight="495"/>
+	<SubTexture name="ninja down0005" x="2724" y="1995" width="391" height="495" frameX="0" frameY="0" frameWidth="414" frameHeight="495"/>
+	<SubTexture name="ninja down0006" x="3115" y="1995" width="389" height="491" frameX="-1" frameY="-3" frameWidth="414" frameHeight="495"/>
+	<SubTexture name="ninja down0007" x="3115" y="1995" width="389" height="491" frameX="-1" frameY="-3" frameWidth="414" frameHeight="495"/>
+	<SubTexture name="ninja down0008" x="3504" y="1995" width="389" height="493" frameX="-1" frameY="-1" frameWidth="414" frameHeight="495"/>
+	<SubTexture name="ninja down0009" x="3504" y="1995" width="389" height="493" frameX="-1" frameY="-1" frameWidth="414" frameHeight="495"/>
+	<SubTexture name="ninja idle0000" x="3893" y="1995" width="401" height="470" frameX="-17" frameY="-20" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0001" x="3893" y="1995" width="401" height="470" frameX="-17" frameY="-20" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0002" x="4294" y="1995" width="401" height="471" frameX="-15" frameY="-19" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0003" x="4294" y="1995" width="401" height="471" frameX="-15" frameY="-19" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0004" x="4695" y="1995" width="403" height="486" frameX="-4" frameY="-4" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0005" x="4695" y="1995" width="403" height="486" frameX="-4" frameY="-4" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0006" x="5098" y="1995" width="404" height="490" frameX="-1" frameY="0" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0007" x="5098" y="1995" width="404" height="490" frameX="-1" frameY="0" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0008" x="5502" y="1995" width="405" height="490" frameX="0" frameY="0" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0009" x="5502" y="1995" width="405" height="490" frameX="0" frameY="0" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0010" x="5502" y="1995" width="405" height="490" frameX="0" frameY="0" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0011" x="5502" y="1995" width="405" height="490" frameX="0" frameY="0" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0012" x="5502" y="1995" width="405" height="490" frameX="0" frameY="0" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0013" x="5502" y="1995" width="405" height="490" frameX="0" frameY="0" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja idle0014" x="5502" y="1995" width="405" height="490" frameX="0" frameY="0" frameWidth="418" frameHeight="490"/>
+	<SubTexture name="ninja right0000" x="5907" y="1995" width="349" height="508" frameX="-47" frameY="-2" frameWidth="396" frameHeight="510"/>
+	<SubTexture name="ninja right0001" x="5907" y="1995" width="349" height="508" frameX="-47" frameY="-2" frameWidth="396" frameHeight="510"/>
+	<SubTexture name="ninja right0002" x="6256" y="1995" width="345" height="510" frameX="-49" frameY="0" frameWidth="396" frameHeight="510"/>
+	<SubTexture name="ninja right0003" x="6256" y="1995" width="345" height="510" frameX="-49" frameY="0" frameWidth="396" frameHeight="510"/>
+	<SubTexture name="ninja right0004" x="6601" y="1995" width="385" height="505" frameX="-2" frameY="-5" frameWidth="396" frameHeight="510"/>
+	<SubTexture name="ninja right0005" x="6601" y="1995" width="385" height="505" frameX="-2" frameY="-5" frameWidth="396" frameHeight="510"/>
+	<SubTexture name="ninja right0006" x="0" y="2505" width="388" height="503" frameX="0" frameY="-7" frameWidth="396" frameHeight="510"/>
+	<SubTexture name="ninja right0007" x="0" y="2505" width="388" height="503" frameX="0" frameY="-7" frameWidth="396" frameHeight="510"/>
+	<SubTexture name="ninja right0008" x="0" y="2505" width="388" height="503" frameX="0" frameY="-7" frameWidth="396" frameHeight="510"/>
+	<SubTexture name="ninja right0009" x="0" y="2505" width="388" height="503" frameX="0" frameY="-7" frameWidth="396" frameHeight="510"/>
+	<SubTexture name="ninja up0000" x="388" y="2505" width="409" height="517" frameX="0" frameY="0" frameWidth="420" frameHeight="517"/>
+	<SubTexture name="ninja up0001" x="388" y="2505" width="409" height="517" frameX="0" frameY="0" frameWidth="420" frameHeight="517"/>
+	<SubTexture name="ninja up0002" x="797" y="2505" width="410" height="517" frameX="0" frameY="0" frameWidth="420" frameHeight="517"/>
+	<SubTexture name="ninja up0003" x="797" y="2505" width="410" height="517" frameX="0" frameY="0" frameWidth="420" frameHeight="517"/>
+	<SubTexture name="ninja up0004" x="1207" y="2505" width="414" height="513" frameX="-5" frameY="-3" frameWidth="420" frameHeight="517"/>
+	<SubTexture name="ninja up0005" x="1207" y="2505" width="414" height="513" frameX="-5" frameY="-3" frameWidth="420" frameHeight="517"/>
+	<SubTexture name="ninja up0006" x="1621" y="2505" width="418" height="514" frameX="-2" frameY="-2" frameWidth="420" frameHeight="517"/>
+	<SubTexture name="ninja up0007" x="1621" y="2505" width="418" height="514" frameX="-2" frameY="-2" frameWidth="420" frameHeight="517"/>
+	<SubTexture name="ninja up0008" x="2039" y="2505" width="418" height="513" frameX="-2" frameY="-3" frameWidth="420" frameHeight="517"/>
+	<SubTexture name="ninja up0009" x="2039" y="2505" width="418" height="513" frameX="-2" frameY="-3" frameWidth="420" frameHeight="517"/>
+	<SubTexture name="ninja_left0000" x="2457" y="2505" width="363" height="536" frameX="-10" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="ninja_left0001" x="2457" y="2505" width="363" height="536" frameX="-10" frameY="0" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="ninja_left0002" x="2820" y="2505" width="363" height="533" frameX="-10" frameY="-3" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="ninja_left0003" x="2820" y="2505" width="363" height="533" frameX="-10" frameY="-3" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="ninja_left0004" x="3183" y="2505" width="406" height="510" frameX="0" frameY="-25" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="ninja_left0005" x="3183" y="2505" width="406" height="510" frameX="0" frameY="-25" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="ninja_left0006" x="3589" y="2505" width="401" height="517" frameX="-2" frameY="-18" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="ninja_left0007" x="3589" y="2505" width="401" height="517" frameX="-2" frameY="-18" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="ninja_left0008" x="3990" y="2505" width="402" height="516" frameX="-1" frameY="-19" frameWidth="406" frameHeight="536"/>
+	<SubTexture name="ninja_left0009" x="3990" y="2505" width="402" height="516" frameX="-1" frameY="-19" frameWidth="406" frameHeight="536"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ninja_gf_old.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idleoculto0000" x="0" y="0" width="395" height="601" frameX="0" frameY="-9" frameWidth="397" frameHeight="610"/>
+	<SubTexture name="idleoculto0001" x="395" y="0" width="395" height="593" frameX="0" frameY="-4" frameWidth="397" frameHeight="610"/>
+	<SubTexture name="idleoculto0002" x="395" y="0" width="395" height="593" frameX="0" frameY="-4" frameWidth="397" frameHeight="610"/>
+	<SubTexture name="idleoculto0003" x="790" y="0" width="397" height="587" frameX="0" frameY="0" frameWidth="397" frameHeight="610"/>
+	<SubTexture name="idleoculto0004" x="1187" y="0" width="397" height="591" frameX="0" frameY="0" frameWidth="397" frameHeight="610"/>
+	<SubTexture name="idleoculto0005" x="1584" y="0" width="397" height="591" frameX="0" frameY="0" frameWidth="397" frameHeight="610"/>
+</TextureAtlas>

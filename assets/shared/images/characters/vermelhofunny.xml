@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vermelhofunny.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0000" x="0" y="0" width="149" height="67" frameX="0" frameY="-110" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0001" x="0" y="0" width="149" height="67" frameX="0" frameY="-110" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0002" x="149" y="0" width="148" height="67" frameX="-1" frameY="-109" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0003" x="149" y="0" width="148" height="67" frameX="-1" frameY="-109" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0004" x="297" y="0" width="96" height="111" frameX="-23" frameY="-54" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0005" x="297" y="0" width="96" height="111" frameX="-23" frameY="-54" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0006" x="393" y="0" width="133" height="114" frameX="-10" frameY="0" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0007" x="393" y="0" width="133" height="114" frameX="-10" frameY="0" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0008" x="526" y="0" width="132" height="114" frameX="-10" frameY="-1" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0009" x="526" y="0" width="132" height="114" frameX="-10" frameY="-1" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0010" x="658" y="0" width="133" height="116" frameX="-10" frameY="-8" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0011" x="658" y="0" width="133" height="116" frameX="-10" frameY="-8" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0012" x="791" y="0" width="131" height="116" frameX="-12" frameY="-57" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0013" x="791" y="0" width="131" height="116" frameX="-12" frameY="-57" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0014" x="922" y="0" width="116" height="127" frameX="-21" frameY="-121" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0015" x="922" y="0" width="116" height="127" frameX="-21" frameY="-121" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0016" x="1038" y="0" width="101" height="134" frameX="-28" frameY="-331" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0017" x="1038" y="0" width="101" height="134" frameX="-28" frameY="-331" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0018" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0019" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0020" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0021" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0022" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0023" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0024" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0025" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0026" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0027" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0028" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY MORRE AO VIVO. ENTENDA0029" x="1139" y="0" width="0" height="0" frameX="-5" frameY="-69" frameWidth="149" frameHeight="465"/>
+	<SubTexture name="VERMELHO FUNNY down0000" x="1139" y="0" width="910" height="574" frameX="0" frameY="-86" frameWidth="910" frameHeight="660"/>
+	<SubTexture name="VERMELHO FUNNY down0001" x="1139" y="0" width="910" height="574" frameX="0" frameY="-86" frameWidth="910" frameHeight="660"/>
+	<SubTexture name="VERMELHO FUNNY down0002" x="2049" y="0" width="903" height="574" frameX="-3" frameY="-86" frameWidth="910" frameHeight="660"/>
+	<SubTexture name="VERMELHO FUNNY down0003" x="2049" y="0" width="903" height="574" frameX="-3" frameY="-86" frameWidth="910" frameHeight="660"/>
+	<SubTexture name="VERMELHO FUNNY down0004" x="2952" y="0" width="842" height="654" frameX="-28" frameY="0" frameWidth="910" frameHeight="660"/>
+	<SubTexture name="VERMELHO FUNNY down0005" x="2952" y="0" width="842" height="654" frameX="-28" frameY="0" frameWidth="910" frameHeight="660"/>
+	<SubTexture name="VERMELHO FUNNY down0006" x="3794" y="0" width="848" height="649" frameX="-23" frameY="-4" frameWidth="910" frameHeight="660"/>
+	<SubTexture name="VERMELHO FUNNY down0007" x="3794" y="0" width="848" height="649" frameX="-23" frameY="-4" frameWidth="910" frameHeight="660"/>
+	<SubTexture name="VERMELHO FUNNY down0008" x="4642" y="0" width="848" height="649" frameX="-23" frameY="-4" frameWidth="910" frameHeight="660"/>
+	<SubTexture name="VERMELHO FUNNY down0009" x="4642" y="0" width="848" height="649" frameX="-23" frameY="-4" frameWidth="910" frameHeight="660"/>
+	<SubTexture name="VERMELHO FUNNY idle0000" x="5490" y="0" width="285" height="238" frameX="0" frameY="-17" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0001" x="5490" y="0" width="285" height="238" frameX="0" frameY="-17" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0002" x="5775" y="0" width="285" height="239" frameX="-1" frameY="-16" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0003" x="5775" y="0" width="285" height="239" frameX="-1" frameY="-16" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0004" x="6060" y="0" width="275" height="255" frameX="-9" frameY="0" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0005" x="6060" y="0" width="275" height="255" frameX="-9" frameY="0" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0006" x="6335" y="0" width="282" height="252" frameX="-4" frameY="-3" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0007" x="6335" y="0" width="282" height="252" frameX="-4" frameY="-3" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0008" x="6617" y="0" width="280" height="252" frameX="-6" frameY="-3" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0009" x="6617" y="0" width="280" height="252" frameX="-6" frameY="-3" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0010" x="6897" y="0" width="280" height="253" frameX="-6" frameY="-2" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0011" x="6897" y="0" width="280" height="253" frameX="-6" frameY="-2" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0012" x="7177" y="0" width="280" height="253" frameX="-6" frameY="-2" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0013" x="7177" y="0" width="280" height="253" frameX="-6" frameY="-2" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle0014" x="6897" y="0" width="280" height="253" frameX="-6" frameY="-2" frameWidth="286" frameHeight="255"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0000" x="7457" y="0" width="145" height="106" frameX="0" frameY="-14" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0001" x="7457" y="0" width="145" height="106" frameX="0" frameY="-14" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0002" x="7602" y="0" width="143" height="106" frameX="-2" frameY="-14" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0003" x="7602" y="0" width="143" height="106" frameX="-2" frameY="-14" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0004" x="7745" y="0" width="132" height="120" frameX="-7" frameY="0" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0005" x="7745" y="0" width="132" height="120" frameX="-7" frameY="0" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0006" x="7877" y="0" width="134" height="119" frameX="-5" frameY="-1" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0007" x="7877" y="0" width="134" height="119" frameX="-5" frameY="-1" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0008" x="8011" y="0" width="133" height="119" frameX="-6" frameY="-1" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0009" x="8011" y="0" width="133" height="119" frameX="-6" frameY="-1" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0010" x="0" y="654" width="133" height="119" frameX="-6" frameY="-1" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0011" x="0" y="654" width="133" height="119" frameX="-6" frameY="-1" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0012" x="0" y="654" width="133" height="119" frameX="-6" frameY="-1" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0013" x="0" y="654" width="133" height="119" frameX="-6" frameY="-1" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY idle alt0014" x="0" y="654" width="133" height="119" frameX="-6" frameY="-1" frameWidth="145" frameHeight="120"/>
+	<SubTexture name="VERMELHO FUNNY left0000" x="133" y="654" width="846" height="669" frameX="0" frameY="-52" frameWidth="913" frameHeight="733"/>
+	<SubTexture name="VERMELHO FUNNY left0001" x="133" y="654" width="846" height="669" frameX="0" frameY="-52" frameWidth="913" frameHeight="733"/>
+	<SubTexture name="VERMELHO FUNNY left0002" x="979" y="654" width="834" height="670" frameX="-13" frameY="-51" frameWidth="913" frameHeight="733"/>
+	<SubTexture name="VERMELHO FUNNY left0003" x="979" y="654" width="834" height="670" frameX="-13" frameY="-51" frameWidth="913" frameHeight="733"/>
+	<SubTexture name="VERMELHO FUNNY left0004" x="1813" y="654" width="830" height="733" frameX="-83" frameY="0" frameWidth="913" frameHeight="733"/>
+	<SubTexture name="VERMELHO FUNNY left0005" x="1813" y="654" width="830" height="733" frameX="-83" frameY="0" frameWidth="913" frameHeight="733"/>
+	<SubTexture name="VERMELHO FUNNY left0006" x="2643" y="654" width="829" height="723" frameX="-79" frameY="-2" frameWidth="913" frameHeight="733"/>
+	<SubTexture name="VERMELHO FUNNY left0007" x="2643" y="654" width="829" height="723" frameX="-79" frameY="-2" frameWidth="913" frameHeight="733"/>
+	<SubTexture name="VERMELHO FUNNY left0008" x="3472" y="654" width="829" height="723" frameX="-79" frameY="-2" frameWidth="913" frameHeight="733"/>
+	<SubTexture name="VERMELHO FUNNY left0009" x="3472" y="654" width="829" height="723" frameX="-79" frameY="-2" frameWidth="913" frameHeight="733"/>
+	<SubTexture name="VERMELHO FUNNY mask0000" x="4301" y="654" width="590" height="562"/>
+	<SubTexture name="VERMELHO FUNNY right0000" x="4891" y="654" width="811" height="715" frameX="-36" frameY="-22" frameWidth="847" frameHeight="737"/>
+	<SubTexture name="VERMELHO FUNNY right0001" x="4891" y="654" width="811" height="715" frameX="-36" frameY="-22" frameWidth="847" frameHeight="737"/>
+	<SubTexture name="VERMELHO FUNNY right0002" x="5702" y="654" width="806" height="713" frameX="-38" frameY="-24" frameWidth="847" frameHeight="737"/>
+	<SubTexture name="VERMELHO FUNNY right0003" x="5702" y="654" width="806" height="713" frameX="-38" frameY="-24" frameWidth="847" frameHeight="737"/>
+	<SubTexture name="VERMELHO FUNNY right0004" x="6508" y="654" width="821" height="737" frameX="0" frameY="0" frameWidth="847" frameHeight="737"/>
+	<SubTexture name="VERMELHO FUNNY right0005" x="6508" y="654" width="821" height="737" frameX="0" frameY="0" frameWidth="847" frameHeight="737"/>
+	<SubTexture name="VERMELHO FUNNY right0006" x="7329" y="654" width="822" height="734" frameX="-6" frameY="-3" frameWidth="847" frameHeight="737"/>
+	<SubTexture name="VERMELHO FUNNY right0007" x="7329" y="654" width="822" height="734" frameX="-6" frameY="-3" frameWidth="847" frameHeight="737"/>
+	<SubTexture name="VERMELHO FUNNY right0008" x="0" y="1391" width="822" height="734" frameX="-6" frameY="-3" frameWidth="847" frameHeight="737"/>
+	<SubTexture name="VERMELHO FUNNY right0009" x="0" y="1391" width="822" height="734" frameX="-6" frameY="-3" frameWidth="847" frameHeight="737"/>
+	<SubTexture name="VERMELHO FUNNY up0000" x="822" y="1391" width="792" height="709" frameX="0" frameY="0" frameWidth="808" frameHeight="738"/>
+	<SubTexture name="VERMELHO FUNNY up0001" x="822" y="1391" width="792" height="709" frameX="0" frameY="0" frameWidth="808" frameHeight="738"/>
+	<SubTexture name="VERMELHO FUNNY up0002" x="1614" y="1391" width="791" height="708" frameX="0" frameY="-3" frameWidth="808" frameHeight="738"/>
+	<SubTexture name="VERMELHO FUNNY up0003" x="1614" y="1391" width="791" height="708" frameX="0" frameY="-3" frameWidth="808" frameHeight="738"/>
+	<SubTexture name="VERMELHO FUNNY up0004" x="2405" y="1391" width="808" height="729" frameX="0" frameY="-9" frameWidth="808" frameHeight="738"/>
+	<SubTexture name="VERMELHO FUNNY up0005" x="2405" y="1391" width="808" height="729" frameX="0" frameY="-9" frameWidth="808" frameHeight="738"/>
+	<SubTexture name="VERMELHO FUNNY up0006" x="3213" y="1391" width="806" height="726" frameX="0" frameY="-8" frameWidth="808" frameHeight="738"/>
+	<SubTexture name="VERMELHO FUNNY up0007" x="3213" y="1391" width="806" height="726" frameX="0" frameY="-8" frameWidth="808" frameHeight="738"/>
+	<SubTexture name="VERMELHO FUNNY up0008" x="4019" y="1391" width="806" height="726" frameX="0" frameY="-8" frameWidth="808" frameHeight="738"/>
+	<SubTexture name="VERMELHO FUNNY up0009" x="4019" y="1391" width="806" height="726" frameX="0" frameY="-8" frameWidth="808" frameHeight="738"/>
+	<SubTexture name="VERMELHO FUNNY volta a vida0000" x="4825" y="1391" width="856" height="533" frameX="0" frameY="-911" frameWidth="859" frameHeight="1444"/>
+	<SubTexture name="VERMELHO FUNNY volta a vida0001" x="5681" y="1391" width="857" height="535" frameX="0" frameY="-905" frameWidth="859" frameHeight="1444"/>
+	<SubTexture name="VERMELHO FUNNY volta a vida0002" x="6538" y="1391" width="857" height="538" frameX="0" frameY="-886" frameWidth="859" frameHeight="1444"/>
+	<SubTexture name="VERMELHO FUNNY volta a vida0003" x="0" y="2125" width="857" height="549" frameX="-1" frameY="-836" frameWidth="859" frameHeight="1444"/>
+	<SubTexture name="VERMELHO FUNNY volta a vida0004" x="857" y="2125" width="856" height="584" frameX="-3" frameY="-663" frameWidth="859" frameHeight="1444"/>
+	<SubTexture name="VERMELHO FUNNY volta a vida0005" x="1713" y="2125" width="837" height="686" frameX="-10" frameY="-223" frameWidth="859" frameHeight="1444"/>
+	<SubTexture name="VERMELHO FUNNY volta a vida0006" x="2550" y="2125" width="829" height="713" frameX="-12" frameY="-118" frameWidth="859" frameHeight="1444"/>
+	<SubTexture name="VERMELHO FUNNY volta a vida0007" x="3379" y="2125" width="825" height="726" frameX="-12" frameY="-64" frameWidth="859" frameHeight="1444"/>
+	<SubTexture name="VERMELHO FUNNY volta a vida0008" x="4204" y="2125" width="822" height="733" frameX="-13" frameY="-32" frameWidth="859" frameHeight="1444"/>
+	<SubTexture name="VERMELHO FUNNY volta a vida0009" x="5026" y="2125" width="821" height="738" frameX="-13" frameY="-12" frameWidth="859" frameHeight="1444"/>
+	<SubTexture name="VERMELHO FUNNY volta a vida0010" x="5847" y="2125" width="820" height="741" frameX="-13" frameY="0" frameWidth="859" frameHeight="1444"/>
+</TextureAtlas>

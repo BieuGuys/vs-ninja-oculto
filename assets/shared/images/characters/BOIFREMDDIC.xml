@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BOIFREMDDIC.png"><SubTexture name="BF idle dance idle0000" x="0" y="0" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF idle dance0001" x="400" y="0" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF idle dance0002" x="0" y="400" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF idle dance0003" x="400" y="400" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF NOTE DOWN0000" x="800" y="0" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF NOTE DOWN0001" x="800" y="400" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="down note miss0000" x="0" y="800" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="down note miss0001" x="400" y="800" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF NOTE UP0000" x="800" y="800" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF NOTE UP0001" x="1200" y="0" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="up note miss0000" x="1200" y="400" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="up note miss0001" x="1200" y="800" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF NOTE RIGHT0000" x="0" y="1200" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF NOTE RIGHT0001" x="400" y="1200" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="right note miss0000" x="800" y="1200" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="right note miss0001" x="1200" y="1200" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF NOTE LEFT0000" x="1600" y="0" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF NOTE LEFT0001" x="1600" y="400" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="left note miss0000" x="1600" y="800" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="left note miss0001" x="1600" y="1200" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="BF F0000" x="0" y="1600" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

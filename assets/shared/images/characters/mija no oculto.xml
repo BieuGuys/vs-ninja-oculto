@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mija no oculto.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mija no culto0000" x="0" y="0" width="379" height="360" frameX="0" frameY="-2" frameWidth="379" frameHeight="362"/>
+	<SubTexture name="mija no culto0001" x="0" y="0" width="379" height="360" frameX="0" frameY="-2" frameWidth="379" frameHeight="362"/>
+	<SubTexture name="mija no culto0002" x="379" y="0" width="379" height="360" frameX="0" frameY="-2" frameWidth="379" frameHeight="362"/>
+	<SubTexture name="mija no culto0003" x="379" y="0" width="379" height="360" frameX="0" frameY="-2" frameWidth="379" frameHeight="362"/>
+	<SubTexture name="mija no culto0004" x="0" y="360" width="379" height="362"/>
+	<SubTexture name="mija no culto0005" x="0" y="360" width="379" height="362"/>
+	<SubTexture name="mija no culto0006" x="379" y="360" width="379" height="359" frameX="0" frameY="-3" frameWidth="379" frameHeight="362"/>
+	<SubTexture name="mija no culto0007" x="379" y="360" width="379" height="359" frameX="0" frameY="-3" frameWidth="379" frameHeight="362"/>
+</TextureAtlas>
