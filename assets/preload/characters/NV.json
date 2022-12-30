@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NV idle"
+		},
+		{
+			"offsets": [
+				131,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NV left"
+		},
+		{
+			"offsets": [
+				-120,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NV right"
+		},
+		{
+			"offsets": [
+				-40,
+				-145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NV down"
+		},
+		{
+			"offsets": [
+				-96,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NV up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ninja_vermelhonew",
+	"position": [
+		-90,
+		50
+	],
+	"healthicon": "icons-vermelho",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		0,
+		40
+	],
+	"camera_position": [
+		-190,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

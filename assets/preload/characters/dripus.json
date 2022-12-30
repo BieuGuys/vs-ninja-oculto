@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-139
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dripus idle"
+		},
+		{
+			"offsets": [
+				-59,
+				-147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dripus left"
+		},
+		{
+			"offsets": [
+				-80,
+				-154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dripus right"
+		},
+		{
+			"offsets": [
+				-66,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dripus down"
+		},
+		{
+			"offsets": [
+				-56,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dripus up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dripus",
+	"position": [
+		-100,
+		160
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		23,
+		50
+	],
+	"camera_position": [
+		-190,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

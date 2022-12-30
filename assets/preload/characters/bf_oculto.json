@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bfoculto_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bfoculto_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				48
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bfoculto_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bfoculto_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				32
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bfoculto_erroesquerda",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				22
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bfoculto_errobaixo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				72
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bfoculto_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				77
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bfoculto_uerrocima",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				52
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bfoculto_errodireita",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				31
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bfoculto_morte1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				15
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "bfoculto_morte2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				29
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bfoculto_morte3",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_oculto",
+	"position": [
+		0,
+		390
+	],
+	"healthicon": "bfoculto",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		0,
+		69
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

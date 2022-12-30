@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-260,
+				-129
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ninja idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-143,
+				-90
+			],
+			"anim": "tu e bom",
+			"fps": 24,
+			"name": "hahahahahahahatuesbonmiso",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-238,
+				-97
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ninja up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-245,
+				-68
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ninja_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-289,
+				-102
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ninja right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-282,
+				-123
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ninja down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ninja_oculto",
+	"position": [
+		-240,
+		100
+	],
+	"healthicon": "ninjaoculto",
+	"flip_x": false,
+	"healthbar_colors": [
+		76,
+		0,
+		115
+	],
+	"camera_position": [
+		-120,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

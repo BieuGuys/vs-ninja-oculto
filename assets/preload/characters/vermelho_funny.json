@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "VERMELHO FUNNY idle alt"
+		},
+		{
+			"offsets": [
+				-60,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "VERMELHO FUNNY idle"
+		},
+		{
+			"offsets": [
+				-60,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "morrendo",
+			"indices": [],
+			"name": "VERMELHO FUNNY MORRE AO VIVO. ENTENDA"
+		},
+		{
+			"offsets": [
+				-60,
+				-139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "revivendo",
+			"indices": [],
+			"name": "VERMELHO FUNNY volta a vida"
+		},
+		{
+			"offsets": [
+				131,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "VERMELHO FUNNY left"
+		},
+		{
+			"offsets": [
+				-120,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "VERMELHO FUNNY right"
+		},
+		{
+			"offsets": [
+				-40,
+				-145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "VERMELHO FUNNY down"
+		},
+		{
+			"offsets": [
+				-96,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "VERMELHO FUNNY up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vermelhofunny",
+	"position": [
+		-90,
+		50
+	],
+	"healthicon": "icons-vermelho",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		0,
+		40
+	],
+	"camera_position": [
+		-190,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

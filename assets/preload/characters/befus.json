@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-394,
+				-372
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				-400,
+				-368
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf left"
+		},
+		{
+			"offsets": [
+				-425,
+				-360
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf right"
+		},
+		{
+			"offsets": [
+				-386,
+				-365
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down"
+		},
+		{
+			"offsets": [
+				-430,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/befus",
+	"position": [
+		-130,
+		-40
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		216,
+		23,
+		50
+	],
+	"camera_position": [
+		-410,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}
