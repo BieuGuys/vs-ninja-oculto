@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Occult",
+			"ninjaocultofreeplay",
+			[
+				106,
+				0,
+				155
+			]
+		],
+		[
+			"Red",
+			"icons-vermelho",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "oculto",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Main week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
